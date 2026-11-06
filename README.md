@@ -72,8 +72,8 @@
 ## GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Salahdf09&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=06B6D4&icon_color=4F46E5" alt="stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Salahdf09&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=06B6D4" alt="top languages" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Salahdf09&theme=tokyonight" alt="stats" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Salahdf09&theme=tokyonight" alt="top languages" />
 </p>
 
 <p align="center">
